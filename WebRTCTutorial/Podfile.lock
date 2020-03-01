@@ -1,0 +1,16 @@
+PODS:
+  - GoogleWebRTC (1.1.29400)
+
+DEPENDENCIES:
+  - GoogleWebRTC
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+
+SPEC CHECKSUMS:
+  GoogleWebRTC: cfb83bc346435a17fe06bb05f04ad826b858a7fb
+
+PODFILE CHECKSUM: 8a308087ee71122ac825dfc7a28dc6b8de33e368
+
+COCOAPODS: 1.8.4
