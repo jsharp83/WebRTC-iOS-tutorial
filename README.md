@@ -1,4 +1,4 @@
-# WebRTCIOSTutorial
+# WebRTC-iOS-tutorial
 This is a simple code for video call using WebRTC and iOS Swift.
 
 ![demo](./docs/demo.gif)
